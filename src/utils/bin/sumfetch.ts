@@ -30,10 +30,10 @@ const sumfetch = async (args: string[]): Promise<string> => {
    ▓▓     ▓▓▓    ▐▓▓    ▐▓▓     ▓▓           <u><a href="${config.resume_url}" target="_blank">resume</a></u>
 ▐▓▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▓       爵 <u><a href="${config.repo}" target="_blank">Github repo</a></u>
 ▐▓                                 ▐▓       -----------
-▐▓        > JAYANT RAWAT           ▐▓        CONTACT 
+▐▓        > ARYAN SHARMA           ▐▓        CONTACT 
 ▐▓                                 ▐▓        <u><a href="mailto:${config.email}" target="_blank">${config.email}</a></u>
 ▐▓▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▓        <u><a href="https://github.com/${config.social.github}" target="_blank">github.com/${config.social.github}</a></u>
-   ▓▓      ▐▓▓    ▓▓    ▐▓▓     ▓▓           <u><a href="https://www.linkedin.com/in/jayant-rawat-b59042230/" target="_blank">linkedin.com/in/jayant-rawat-b59042230/</a></u>
+   ▓▓      ▐▓▓    ▓▓    ▐▓▓     ▓▓           <u><a href="https://www.linkedin.com/in/aryan-sharma-51a758200/" target="_blank">linkedin.com/in/jayant-rawat-b59042230/</a></u>
     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓           -----------
       ▓▓▓   ▐▓▓   ▓▓   ▓▓▓   ▓▓▀             DONATE 
         ▀▓▓▄▄ ▀▓▓▄▓▓▄▓▓▓▄▄▓▓▀                <u><a href="${config.donate_urls.paypal}" target="_blank">${config.donate_urls.paypal}</a></u>
