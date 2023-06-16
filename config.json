@@ -1,0 +1,38 @@
+{
+  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
+  "title": "jayant portfolio",
+  "name": "Jayant Rawat",
+  "ascii": "Jayant Rawat",
+  "social": {
+    "github": "NOTJAYANTRAWAT",
+    "linkedin": "Jayant-Rawat"
+  },
+  "email": "jayantrawat02@gmail.com",
+  "ps1_hostname": "portfolio",
+  "ps1_username": "welcome",
+  "repo": "https://github.com/NOTJAYANTRAWAT",
+  "resume_url": "https://github.com/NOTJAYANTRAWAT/resume/blob/main/JAYANT%20RAWAT%20CV-1.pdf",
+  "donate_urls": {
+    "paypal": "https://paypal.me/rootjay"
+  },
+  "colors": {
+    "light": {
+      "background": "#FBF1C9",
+      "foreground": "#3C3836",
+      "yellow": "#D79921",
+      "green": "#98971A",
+      "gray": "#7C6F64",
+      "blue": "#458588",
+      "red": "#CA2124"
+    },
+    "dark": {
+      "background": "#1A1B1F",
+      "foreground": "#E5E9F0",
+      "yellow": "#5E81AC",
+      "green": "#92BA6F",
+      "gray": "#88C0D0",
+      "blue": "#EBCB8B",
+      "red": "#CB460"
+    }
+  }
+}
